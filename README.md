@@ -66,7 +66,7 @@
 | 최한나 | 기획 & QA | [GitHub](https://github.com/username) |
 | 이나의 | 디자인  | [GitHub](https://github.com/username) |
 | 조호진 | 디자인  | [GitHub](https://github.com/username) |
-| 김민준 | 백엔드 & 데이터베이스 | [GitHub](https://github.com/KimMJ9911) |
+| 김민준 | 백엔드 & 데이터베이스 & 배포 | [GitHub](https://github.com/KimMJ9911) |
 
 > ※ 각 팀원 GitHub 링크는 실제 계정으로 교체해주세요.
 
